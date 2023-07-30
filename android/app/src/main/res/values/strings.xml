@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sneve</string>
+    <string name="title_activity_main">sneve</string>
+    <string name="package_name">app.sneve.web</string>
+    <string name="custom_url_scheme">app.sneve.web</string>
+</resources>

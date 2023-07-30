@@ -1,0 +1,8 @@
+{
+  "appId": "app.sneve.web",
+  "appName": "sneve",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
